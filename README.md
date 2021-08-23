@@ -2,8 +2,8 @@
 
 1. Add sad emoji
 
->TODO: add emoji
+((´д｀))
 
 2. Add happy emoji
 
->TODO: add emoji
+ʕ•́ᴥ•̀ʔっ
